@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi, I'm Vicente Megido García (UO294013)</b>
+  <b>Hi, I'm Vicente Megido García</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
@@ -12,7 +12,7 @@
 
 <br>
 
-- I am currently studying Software Engineering in the University of Oviedo (3rd Grade) 📋
+- I am currently studying Software Engineering in the University of Oviedo (4th Grade) 📋
 - FullStack developer, active learner and researcher 🛸
 - Passionate about Software Design, Programming, Cybersecurity, and Artificial Intelligence 🧪
 - Skillfull in various programming languages, both functional and object-oriented, as well as database management and web development technologies 🖥️
@@ -292,4 +292,4 @@
 
 <br>
 
-Last Edited on: 27/06/2025
+Last Edited on: 28/10/2025
