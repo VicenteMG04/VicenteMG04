@@ -251,7 +251,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 
 <br>
 
@@ -292,4 +292,4 @@
 
 <br>
 
-Last Edited on: 20/11/2025 23:20 CET (GMT+1)
+Last Edited on: 11/02/2026 15:52 CET (GMT+1)
